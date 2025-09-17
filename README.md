@@ -1,1 +1,1 @@
-# profile
+# 👋, I'm LIM Jaegeun

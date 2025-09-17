@@ -1,1 +1,1 @@
-# 👋, I'm LIM Jaegeun
+# 👋, I'm Lim Jaegeun

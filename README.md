@@ -1,6 +1,6 @@
-#  👋, I'm Hwang Junseo
+#  👋, I'm Lim Jaegeun
 
-안녕하세요! 클라우드 엔지니어를 목표로 하는 황준서입니다.  
+안녕하세요! 클라우드 엔지니어를 목표로 하는 임재근입니다.  
 꾸준히 배우고 성장하는 전문가가 되기 위해 노력하고 있습니다. 🚀
 
 ---
@@ -12,10 +12,11 @@
 - 기술 블로그: [velog.io/@under_js](https://velog.io/@under_js)
 - 노션 공부 자료: [Notion](https://rainbow-wavelength-a76.notion.site/1bae20ec49bd8035b2cddd70d788772d)
 - 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
-<img src="https://github.com/user-attachments/assets/90d565a2-d3ca-4289-9120-30e65c8c5ded" width="150" height="auto">
-<img src="https://github.com/user-attachments/assets/b454df73-6cd4-4ee0-b4a3-974040a0d338" width="150" height="auto">
-<img src="https://github.com/user-attachments/assets/e90fb8da-b098-4763-8671-ead58001203f" width="150" height="auto">
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gcp,visualstudio,vscode,git,windows,notion" />
+  </a>
+</p>
 
 ---
 

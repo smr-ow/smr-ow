@@ -1,22 +1,9 @@
-# 👋 I'm Lim Jaegeun
+<h1 align="center">Hi 👋, I'm Lim Jaegeun</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-안녕하세요! 클라우드 엔지니어를 목표로 하는 임재근입니다.  <br/>
-꾸준히 배우고 성장하는 전문가가 되기 위해 노력하고 있습니다. 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 📋 About Me
-
-🌱 현재: 클라우드 엔지니어 취업 준비 중  
-🔍 관심 기술: 
-📄 이력서:   
-✍️ 📝 최근 공부 자료: [Notion](링크)  
-🏆 주요 자격증: AWS-DEA, 리눅스마스터, 네트워크 관리사
-
----
-
-<div align="center">
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect-Associate_512x512.d60d87c0f8.png" width="120" />
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Data-Analytics-Specialty_512x512.c7b6962287.png" width="120" />
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/CKA_512x512.2d8cbe6cb1.png" width="120" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>

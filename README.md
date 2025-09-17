@@ -194,5 +194,5 @@
 ---
 
 ## 📞 Contact
-- ✉️ Email: hjs440801@gmail.com
-- Blog: https://velog.io/@under_js
+- ✉️ Email: 
+

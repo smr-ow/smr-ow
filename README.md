@@ -11,7 +11,7 @@
 - 📝 이력서: [이력서_황준서.pdf](https://github.com/undermint/undermint/blob/main/Data/%EC%9D%B4%EB%A0%A5%EC%84%9C_%ED%99%A9%EC%A4%80%EC%84%9C.pdf)
 - 기술 블로그: [velog.io/@under_js](https://velog.io/@under_js)
 - 노션 공부 자료: [Notion](https://rainbow-wavelength-a76.notion.site/1bae20ec49bd8035b2cddd70d788772d)
-- 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
+- 🏆 자격증: AWS-DEA-C01, 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gcp,visualstudio,vscode,git,windows,notion" />

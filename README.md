@@ -1,198 +1,139 @@
-#  👋, I'm Lim Jaegeun
+#  👋Hi, I'm Seo JaeKwon
 
-안녕하세요! 클라우드 엔지니어를 목표로 하는 임재근입니다.  
-꾸준히 배우고 성장하는 전문가가 되기 위해 노력하고 있습니다. 🚀
 
----
+# 📂 소개
+- 🌱 현재: 시스템 엔지니어 취업 준비 중  
+- 노션 공부 자료: [Notion](https://www.notion.so/Notion-26fd5fed034680ffab0fe04d41562d2e)
+- 🏆 주요 자격증: AWS Certified Data Engineer – Associate (DEA), Terraform associate 003, Cisco Certified Network Associate (CCNA) 200-301
+<div align="left">
+  <img width="150" height="auto" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/36163081-9f97-461a-9f72-d27f896fcdb3" />
+  <img width="150" height="auto" alt="hashicorp-certified-terraform-associate-003" src="https://github.com/user-attachments/assets/771c2bcf-0001-4af9-bc04-dc473f02ad83" />
+  <img width="150" height="auto" alt="ccna-certification-badge" src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" />
+</div>
 
-## 📂 About Me
-- 🌱 현재: 클라우드 엔지니어 취업 준비 중  
-- 🔥 관심 기술: Helm, IaC, ArgoCD, GitOps
-- 📝 이력서: [이력서_황준서.pdf](https://github.com/undermint/undermint/blob/main/Data/%EC%9D%B4%EB%A0%A5%EC%84%9C_%ED%99%A9%EC%A4%80%EC%84%9C.pdf)
-- 기술 블로그: [velog.io/@under_js](https://velog.io/@under_js)
-- 노션 공부 자료: [Notion](https://rainbow-wavelength-a76.notion.site/1bae20ec49bd8035b2cddd70d788772d)
-- 🏆 자격증: AWS-DEA-C01, 
+
+# 🔥기술 / Skills
+한번이라도 사용했던 경험이 있는 기술들
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gcp,visualstudio,vscode,git,windows,notion" />
   </a>
 </p>
 
----
 
+# 📚 보유 자격증
 
-
-
-
-
-
-## 💼 Projects
-
-### 1. [Node.js와 Firebase를 활용한 감정 분석 AI 일기 웹사이트](https://github.com/undermint/undermint/tree/main/Project_EmotionCard_Diary)
-- 📄 **관련 문서**: [감정 분석 AI 일기 웹사이트](https://github.com/undermint/undermint/tree/main/Project_EmotionCard_Diary)
-- 🛠 **기술 스택**: Node.js, Firebase, Firestore, Express, 카카오톡 API  
-- 💡 **설명**: 감정 카드를 작성하고 AI 분석을 통해 감정을 피드백해주는 서비스  
-- 🎯 **주요 기여**:
-  - 백엔드 서버 구축 및 데이터베이스 설계  
-  - AI 기반 감정 분석 알고리즘 구현  
-  - 배포 및 운영 모니터링 환경 구축  
-
-> **웹사이트 - [InsideU](https://insideu-e7710.firebaseapp.com)**
-
----
-
-### 2. AWS  
-- 📄 **관련 문서**:
-  - [AWS 퍼블릭 클라우드 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/AWS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)  
-  - [EKS 클러스터와 ELB 구성](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/EKS-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team-Renew.pdf)  
-- 🛠 **기술 스택**: AWS VPC, EC2, S3, RDS, CloudWatch, CloudFront, EKS  
-- 💡 **설명**: AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계  
-- 🎯 **주요 기여**:
-  - VPC 및 서브넷 설계 및 구축  
-  - CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅  
-  - EKS 클러스터 구축 및 관리  
-
----
-
-### 3. [Kubernetes (k8s)](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/k8s%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
-- 📄 **관련 문서**: [Kubernetes(k8s).pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/k8s%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Team%20Renew.pdf)
-- 🛠 **기술 스택**: Kubernetes, Docker
-- 💡 **설명**: Kubernetes 실습을 통한 CKA 시험 대비 및 클러스터 운영
-- 🎯 **주요 기여**:
-  - Kubernetes 클러스터 설치 및 배포 환경 설정
-  - YAML로 Kubernetes 리소스 배포 및 관리
-  - RBAC 설정
-  - 노드 스케줄링 및 Pod 재배치 관리
-
----
-
-### 4. [Rocky Linux](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
-- 📄 **관련 문서**: [Linux.pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_%EB%A6%AC%EB%89%B4.pdf)
-- 🛠 **기술 스택**: Rocky Linux 9
-- 💡 **설명**: Rocky Linux 9를 활용한 리눅스 서버 구성
-- 🎯 **주요 기여**:
-  - Rocky Linux 기반 서버 구축 및 운영  
-  - 서버 설치 및 네트워크 구성
-  - 사용자 관리 및 LVM 설정
-  - 서버 서비스 설치 및 방화벽 설정
-
----
-
-### 5. [vSphere](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/vSphere%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_Team%20Renew.pdf)
-- 📄 **관련 문서**: [vSphere.pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/vSphere%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_3%EC%A1%B0_Team%20Renew.pdf)
-- 🛠 **기술 스택**: VMware vSphere, ESXi, vCenter  
-- 💡 **설명**: VMware vSphere 기반 서버 가상화 구현
-- 🎯 **주요 기여**:
-  - vSphere 환경에서 가상머신 배포 및 최적화
-  - ESXi 설치 및 vCenter 구성
-  - 고가용성(HA) 및 FT 설정
-  - 가상 네트워크 및 스토리지 구성  
-
----
-
-### 6. [네트워크](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Renew_CCIE_170.pdf)
-- 📄 **관련 문서**: [네트워크.pdf](https://github.com/undermint/undermint/blob/b62f77cbf15bb5e234aee99a1574eaec1532fc3b/Data/Renew_CCIE_170.pdf)
-- 🛠 **기술 스택**: XShell 8, L3-switch CISCO catalyst 3550, Router CISCO 2600, IOU-Web
-- 💡 **설명**: CISCO 라우터와 스위치를 이용한 네트워크 설정
-- 🎯 **주요 기여**:
-  - 물리적 구성도 및 IP 구성도 설계
-  - IP IGP 프로토콜 구성 (RIP, OSPF)
-  - VLAN 구성 및 관리 인터페이스 설정
-
----
-
-
-### 7. [특허 출원](https://doi.org/10.8080/1020200041488) (거절 상태)
-- 📄 **관련 문서**: [특허 사이트](https://doi.org/10.8080/1020200041488)
-- 💡 **설명**: 전자레인지와 연동하는 음성 광고 시스템 및 운용 방법  
-- 🎯 **출원 요약**:  
-  본 발명은 전자레인지의 동작에 의해 발생하는 전력량을 검출하여 광고 송출 모듈을 통해 광고 콘텐츠 및 미디어 파일이 노출되는 시스템이다.  
-  - 광고 송출 모듈의 위치 기반 통계 집계 및 서버 전송  
-  - 사용자에게 광고 노출을 통해 수익 창출  
-  - 전자레인지 사용 시간을 활용한 정보 제공 및 광고 노출  
-
-### 8. 프로젝트: Terraform, GitOps (ArgoCD), CI/CD (GitHub Actions)를 활용한 Kubernetes 클러스터 구축 및 애플리케이션 자동 배포
-> [진행 중](https://velog.io/@under_js/Project-Terraform%EA%B3%BC-GitOps%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%9C-Kubernetes-%EA%B8%B0%EB%B0%98-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94)
-
-
- 
----
-
-## 📜 Certifications & Education
-- 📚 **자격증**  
-  - **AWS Certified Solutions Architect – Associate (SAA)**  
-  - **Certified Kubernetes Administrator (CKA)**
-  - **정보처리기사**
-  - AWS Certified Data Engineer – Associate (DEA)
-  - 리눅스 마스터 2급
-  - 네트워크 관리사 2급
-  - 한국사능력검정시험 1급
-  - 운전면허 1종 보통
-  - 컴퓨터활용능력 2급
-  - ...
-
-- 🎓 **교육 과정**  
-  - 대우능력개발원 - 클라우드 기반 정보시스템 구축 전문가 양성
-    
-    24년 09월 ~ 25년 03월
+- **AWS Certified Data Engineer – Associate (DEA)**
+- **Terraform associate 003**
+- **Cisco Certified Network Associate (CCNA) 200-301**
+- 리눅스마스터 2급
+- 네트워크관리사 2급
+- 정보처리기능사
+- 운전면허 2종 보통
   
-    교육 과정:
-    
-     - 서버 (Linux, Window server)
+
+# 🎓 교육 이력
+- **대우능력개발원 - 클라우드 기반 정보시스템 구축 전문가 양성**
+- 2025-04 ~ 2025-12
+- <교육 과정> 
+  
+      - 서버 (Linux, Window server)
       - 네트워크 (Cisco)
       - Docker & Kubernetes
       - AWS (+EKS)
-   
-    
-- 📂 **교육 이수:**
-  
-  - 클라우드 컴퓨팅
-     - 한국기술교육대학교 온라인평생교육기술원
-     - 25년 2월 ~ 25년 3월
-          
-  - 클라우드 인프라 네트워크 구성
-    - 한국기술교육대학교 온라인평생교육기술원
-    -  25년 2월 ~ 25년 3월
+      - Git
+      - JSON
+      - 구글 클라우드
+
+
+# 🔧 연수 이력
+- **클라우드 서비스 솔루션 설계 기초**
+  - [K-디지털] 온라인평생교육원
+  - 2025-09-08 ~ 2025-10-07
+ 
+     
+- **클라우드 인프라 네트워크 구성**
+  - [K-디지털] 온라인평생교육원
+  - 2025-09-15 ~ 2025-10-14
+
+
+# 💼 Projects
+### 1. 네트워크 프로젝트 (팀 APEX)
+- **관련 문서**: [**네트워크 프로젝트**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/2_APEX%20network_project.pdf&embedded=true)
+- ⚙️ **기술 스택**: Cisco Router/Switch, EIGRP, OSPF, RIPv2, VLAN, Trunk, DHCP, STP
+- 💡 **설명**: OSPF, EIGRP 등 다양한 IGP(내부 게이트웨이 프로토콜)와 재분배(Redistribution)를 활용하여 **복잡한 네트워크 환경을 설계하고 구축**한 프로젝트
+- 🎯 **주요 기여**:
+    - **통합 네트워크 구성**: OSPF, EIGRP, RIPv2 프로토콜을 이용한 라우팅 구성 및 프로토콜 간 재분배 구현
+    - **보안 및 트래픽 관리**: OSPF 인증(Authentication), VLAN 및 Trunk 구성을 통한 논리적 네트워크 분리
+    - **안정성 및 이중화**: STP(Spanning Tree Protocol) 및 EtherChannel 구성을 통한 네트워크 안정성 확보
+---
+ 
+### 2. 방화벽 이중화 프로젝트 (팀 APEX)
+- **관련 문서**: [**방화벽 프로젝트**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/team2%20apex%20firewall%20project.pdf&embedded=true)
+- ⚙️ **기술 스택**: Cisco ASA Firewall, Security Context, ACL (Access Control List), Active-Active Failover, Router/Switch
+- 💡 **설명**: Cisco ASA 방화벽을 사용하여 다중 Context 환경에서 네트워크 보안 정책을 설계하고, **Active-Active 이중화** 구성을 통해 서비스의 고가용성(High Availability)을 확보한 보안 인프라 구축 프로젝트
+- 🎯 **주요 기여**:
+    - **방화벽 이중화 구현**: Active-Active Failover 설정을 통한 무중단 서비스 환경 구축
+    - **논리적 분리**: 방화벽 **Security Context** 설정을 통해 단일 장비를 다중 논리적 방화벽으로 분리하여 관리 효율성 증대
+    - **정밀한 통제**: Inside, Outside, DMZ 등 영역별 **ACL** 정책을 적용하여 트래픽에 대한 세부적인 보안 제어 구현
 ---
 
-
-## 📊 Skills & Tools
-
-### ☁️ Cloud & DevOps
-- **Cloud Platforms**: AWS (EC2, RDS, S3, VPC, EKS), GCP, Firebase  
-- **Containerization & Orchestration**: Docker 23.0.3, Kubernetes (1.28.8, 1.31.2)  
-- **CI/CD & Automation**: Shell Script, ArgoCD, GitOps
-- **Infrastructure as Code (IaC)** : Terraform
-
-### 🖥️ Backend & Database
-- **Languages**: Node.js, Java, Python, JavaScript, Bash  
-- **Frameworks**: Express, Firebase Functions  
-- **Database**: MySQL  
-
-### 🎨 Frontend & UI
-- **Web Technologies**: HTML5, Vue.js, Vuetify  
-
-### 🛠️ Tools & Platforms
-- **Version Control**: Git 2.47.1, GitHub (Fork, Pull Request, Branching)  
-- **API & Testing**: Postman  
-- **Virtualization**: VMware Workstation Pro, VirtualBox, vSphere
-- **Hardware & IoT**: Arduino  
-
-### 🌐 Networking
-- **Tools**: Cisco Packet Tracer, XShell 8, GNS3  
-- **Devices**: L3 Switch (CISCO Catalyst 3550), Router (CISCO 2600)  
-- **Emulators**: IOU-Web  
-
-### 🔒 Security
-- **Firewall**: ASA842  
-
-### 🏗️ Operating Systems
-- **Linux**: Rocky 9.4, Ubuntu (20.04, 22.04, 24.04), Amazon Linux  
-- **Windows Server**: 2012, 2016  
-
-
+### 3. 리눅스 서버 및 시스템 관리 프로젝트 (팀 APEX)
+- **관련 문서**: [**리눅스 프로젝트**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/apex%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf&embedded=true)
+- ⚙️ **기술 스택**: Rocky Linux, LVM (Logical Volume Manager), 디스크 쿼터, SSH, DNS, Web/FTP/NFS/Samba/DHCP/Mail Server
+- 💡 **설명**: Rocky Linux 환경을 기반으로 IP 주소 설정부터 사용자 및 그룹 등록, 그리고 총 9가지의 필수 서비스 서버(DNS, Web, FTP 등)를 구축 및 설정한 종합 시스템 관리 프로젝트
+- 🎯 **주요 기여**:
+    - **통합 서비스 구축**: SSH, XRDP, DNS, Web, FTP, NFS, Samba, DHCP, Mail 등 다양한 서버 서비스 설정 및 기능 구현
+    - **시스템 자원 관리**: 디스크 추가 후 **LVM** 구성을 통한 동적 볼륨 관리 및 **디스크 쿼터** 설정을 통한 효율적인 사용자 자원 제한 구현
+    - **기반 환경 설정**: Rocky Linux 기반의 네트워크 주소 설정 및 사용자/그룹 등록 등 초기 시스템 구성 작업 완료
 ---
 
-## 📞 Contact
-- ✉️ Email: 
+### 4. vSphere 서버 가상화 구현 프로젝트 (팀 APEX)
+- **관련 문서**: [**vSphere 프로젝트**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/2%EC%A1%B0_APEX_vSphere.pdf&embedded=true)
+- ⚙️ **기술 스택**: VMware vSphere, ESXi Host, vCenter Server, Active Directory, vSphere Client
+- 💡 **설명**: **VMware vSphere** 솔루션을 활용하여 **서버 가상화 환경**을 구축하고, **ESXi 호스트**와 **vCenter Server**를 연동하여 가상 서버들을 통합 관리할 수 있는 시스템을 구현한 프로젝트
+- 🎯 **주요 기여**:
+    - **가상화 환경 구축**: 서버 가상화의 개념 이해를 바탕으로 ESXi 호스트 및 vCenter Server 설치/설정 완료
+    - **통합 관리**: vSphere Client를 사용하여 다수의 가상 서버에 대한 유연한 리소스 할당 및 중앙 집중식 관리 환경 구성
+    - **인증 시스템 연동**: Active Directory를 설정하여 사용자 및 권한 관리를 위한 기초 시스템 연동 구현
+---
 
+### 5. AWS 클라우드 인프라 설계 및 구축 (개인 프로젝트)
+- **관련 문서**: [**AWS 개인 프로젝트**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/AWS%20%EA%B0%9C%EC%9D%B8Project_%EC%84%9C%EC%9E%AC%EA%B6%8C.pdf&embedded=true)
+- ⚙️ **기술 스택**: AWS VPC, Subnet, Internet Gateway (IGW), NAT Gateway, Amazon EC2, SSH
+- 💡 **설명**: AWS 클라우드 환경에서 **VPC(Virtual Private Cloud)를 직접 설계하고 구축**한 프로젝트입니다. Public/Private 서브넷 및 NAT Gateway를 구성하여 **가용 영역(AZ)에 걸친 고가용성 네트워크 인프라**를 구현
+- 🎯 **주요 기여**:
+    - **VPC 및 서브넷 설계**: CIDR 블록(10.0.0.0/16)을 사용하여 VPC를 생성하고, 두 개의 가용 영역(AZ)에 걸쳐 Public/Private 서브넷을 구성
+    - **인터넷/아웃바운드 통신 제어**: IGW와 NAT Gateway를 설정하여 Public 서브넷의 직접 통신과 Private 서브넷의 안전한 외부 인터넷 접속 경로를 구현
+    - **구성 검증**: Amazon EC2 인스턴스를 생성하고 SSH를 통한 연결 확인 과정을 거쳐 구성된 네트워크의 작동을 검증
+---
+
+### 6. AWS 클라우드 기반 웹 서비스 구축 프로젝트 (2인)
+- **관련 문서**: [**AWS 2인 프로젝트**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/AWS%202%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%84%9C%EC%9E%AC%EA%B6%8C_%EA%B9%80%EB%AF%BC%ED%98%B8.pdf&embedded=true)
+- ⚙️ **기술 스택**: AWS VPC, EC2, Application Load Balancer (ALB), Amazon RDS, Amazon S3, CloudWatch, SNS, CloudFormation
+- 💡 **설명**: AWS의 주요 서비스(Network, Compute, Database, Storage)를 통합하여 **다중 가용 영역(Multi-AZ) 기반의 고가용성 웹 서비스 인프라**를 구축하고 모니터링 시스템까지 구현한 종합 클라우드 프로젝트
+- 🎯 **주요 기여**:
+    - **네트워크 및 로드 밸런싱**: 다중 AZ에 걸친 VPC 및 Subnet 구성과 ALB를 통한 웹 트래픽 분산 구현
+    - **데이터베이스 구축**: RDS 인스턴스를 생성하고 보안 그룹을 설정하여 Private 서브넷에 안전하게 배치
+    - **모니터링 시스템 구축**: CloudWatch 및 SNS를 연동하여 서버 리소스 모니터링 및 알림 체계 구축
+    - **인프라 자동화**: CloudFormation을 활용하여 인프라를 코드로 관리(IaC)하고 EC2 인스턴스 배포 자동화 구현
+---
+
+### 7. Terraform 기반 IaC 및 자동 배포 프로젝트 (팀 APEX)
+- **관련 문서**: [**Terraform IaC 프로젝트**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/2_APEX_Terraform_Projcet.pdf&embedded=true)
+- ⚙️ **기술 스택**: Terraform, AWS (Provider), GitHub, Terraform Cloud, VSCode, IaC (Infrastructure as Code)
+- 💡 **설명**: HashiCorp의 **Terraform**을 사용하여 **인프라를 코드(IaC) 형태로 정의**하고, **Terraform Cloud 및 GitHub과의 연동**을 통해 클라우드 인프라를 자동화된 방식으로 배포 및 관리하는 시스템을 구축한 프로젝트
+- 🎯 **주요 기여**:
+    - **IaC 환경 구축**: Terraform 기본 개념(Provider, Resource, Variable 등)을 학습하고, 실제 AWS에 리소스를 배포할 수 있는 `.tf` 코드 작성
+    - **CI/CD 자동화 구현**: GitHub, Terraform Cloud, AWS를 연동하여 코드 변경 시 **자동으로 인프라가 배포(Auto-apply)**되도록 CI/CD 파이프라인 구축
+    - **도메인 관리**: Route53에 도메인을 등록하고, 도메인 등록 업체(가비아)의 NS 레코드 설정을 통해 최종적으로 서비스 접근 환경 구성
+---
+
+### 8. AWS EKS 컨테이너 오케스트레이션 프로젝트 (팀 APEX)
+- **관련 문서**: [**AWS EKS 프로젝트**](https://github.com/sjg1894/sjg1894/blob/3ce2d92e5a8557014ed10c720c189733c5f71d1a/docs/APEX_team2_AWS_EKS_project.pdf)
+- ⚙️ **기술 스택**: AWS EKS (Elastic Kubernetes Service), Kubernetes, EC2, Bastion Host, Docker (inferred), IAM
+- 💡 **설명**: AWS 클라우드 환경에서 **EKS(Elastic Kubernetes Service) 클러스터를 구축**하고, **Bastion Host**를 통해 클러스터에 안전하게 접속하여 컨테이너화된 애플리케이션을 배포 및 관리하기 위한 기반을 마련한 프로젝트
+- 🎯 **주요 기여**:
+    - **클러스터 접근 환경 구축**: EKS 클러스터 관리를 위한 **Bastion Host (EC2)**를 설정하고, 안전한 접속을 위한 키 페어 생성
+    - **EKS 클러스터 배포**: AWS EKS를 이용해 쿠버네티스(Kubernetes) 마스터 노드 관리 및 워커 노드 구성 자동화 (프로젝트 핵심 목표)
+    - **컨테이너 환경 기반 마련**: 쿠버네티스 명령어를 활용하여 애플리케이션을 배포하고 모니터링할 수 있는 환경 구성 (프로젝트 핵심 목표)

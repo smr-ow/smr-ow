@@ -1,9 +1,9 @@
-#  👋Hi, I'm Seo JaeKwon
+#  👋Hi, I'm Lim JaeGeun
 
 
 # 📂 소개
 - 🌱 현재: 시스템 엔지니어 취업 준비 중  
-- 노션 공부 자료: [Notion](https://www.notion.so/Notion-26fd5fed034680ffab0fe04d41562d2e)
+- 노션 공부 자료: [Notion](https://www.notion.so/262c489a36788005a6d6e699c48ec798)
 - 🏆 주요 자격증: AWS Certified Data Engineer – Associate (DEA), Terraform associate 003, Cisco Certified Network Associate (CCNA) 200-301
 <div align="left">
   <img width="150" height="auto" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/36163081-9f97-461a-9f72-d27f896fcdb3" />
@@ -24,11 +24,9 @@
 # 📚 보유 자격증
 
 - **AWS Certified Data Engineer – Associate (DEA)**
-- **Terraform associate 003**
-- **Cisco Certified Network Associate (CCNA) 200-301**
 - 리눅스마스터 2급
 - 네트워크관리사 2급
-- 정보처리기능사
+- SQLD
 - 운전면허 2종 보통
   
 
@@ -49,13 +47,8 @@
 # 🔧 연수 이력
 - **클라우드 서비스 솔루션 설계 기초**
   - [K-디지털] 온라인평생교육원
-  - 2025-09-08 ~ 2025-10-07
+  - 2025-09-09 ~ 2025-10-08
  
-     
-- **클라우드 인프라 네트워크 구성**
-  - [K-디지털] 온라인평생교육원
-  - 2025-09-15 ~ 2025-10-14
-
 
 # 💼 Projects
 ### 1. 네트워크 프로젝트 (팀 APEX)

@@ -16,12 +16,13 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
 - **Cloud**: AWS, GCP  
 - **Infrastructure & Orchestration**: Docker, Kubernetes, Terraform  
 - **Operating System & Network**: Linux, Cisco  
 - **DevOps Tools**: Git, Terraform Cloud, Visual Studio, VSCode  
 - **Documentation & Collaboration**: Notion, Windows  
+
+</p>
 
 ---
 

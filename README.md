@@ -11,35 +11,24 @@
 ---
 
 ## 기술 / Skills
+- **Cloud**: AWS, GCP  
+- **Infrastructure & Orchestration**: Docker, Kubernetes, Terraform  
+- **Operating System & Network**: Linux, Cisco  
+- **DevOps Tools**: Git, Terraform Cloud, Visual Studio, VSCode  
+- **Documentation & Collaboration**: Notion, Windows
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gcp,visualstudio,vscode,git,windows,notion" />
   </a>
 </p>
-- **Cloud**: AWS, GCP  
-**Infrastructure & Orchestration**: Docker, Kubernetes, Terraform  
-- **Operating System & Network**: Linux, Cisco  
-- **DevOps Tools**: Git, Terraform Cloud, Visual Studio, VSCode  
-- **Documentation & Collaboration**: Notion, Windows  
-
-
-
 ---
 
 ## 보유 자격증
-<p align="left">
-  <!-- Certificates -->
-  <img src="https://img.shields.io/badge/네트워크관리사2급-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="네트워크관리사2급" />
-  <img src="https://img.shields.io/badge/Linux%20Master%202급-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="리눅스마스터2급" />
-  <img src="https://img.shields.io/badge/SQLD-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLD" />
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20–%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" />
-</p>
-- 기간: 2025.09.09 ~ 2025.10.08  
-AWS Certified Data Engineer – Associate (DEA)  
-리눅스마스터 2급  
-- 네트워크관리사 2급  
-- SQLD  
-운전면허 2종 보통  
+- **AWS Certified Data Engineer – Associate (DEA)**
+- 리눅스마스터 2급
+- 네트워크관리사 2급
+- SQL 개발자 (SQLD)
+- 운전면허 2종 보통
 
 ---
 

@@ -8,7 +8,7 @@
   <img width="150" height="auto" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/36163081-9f97-461a-9f72-d27f896fcdb3" />
 </div>
 
----
+
 
 ## 기술 / Skills
 - **Cloud**: AWS, GCP  
@@ -22,7 +22,7 @@
   </a>
 </p>
 
---- 
+
 
 ## 보유 자격증
 - **AWS Certified Data Engineer – Associate (DEA)**

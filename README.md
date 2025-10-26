@@ -8,6 +8,15 @@
 ---
 
 ## 기술 / Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
 - **Cloud**: AWS, GCP  
 - **Infrastructure & Orchestration**: Docker, Kubernetes, Terraform  
 - **Operating System & Network**: Linux, Cisco  
@@ -17,6 +26,11 @@
 ---
 
 ## 보유 자격증
+<p align="left">
+
+  <img src="https://img.shields.io/badge/SQLD-0078D6?style=flat-square&logo=databricks&logoColor=white" alt="SQLD" />
+  <img src="https://img.shields.io/badge/Linux%20Master%202급-success?style=flat-square" alt="리눅스마스터2급" />
+</p>
 - AWS Certified Data Engineer – Associate (DEA)  
 - 리눅스마스터 2급  
 - 네트워크관리사 2급  

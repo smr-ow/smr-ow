@@ -3,7 +3,6 @@
 
 # 📂 소개
 - 🌱 현재: 시스템 엔지니어 취업 준비 중  
-- 노션 공부 자료: [Notion](https://www.notion.so/262c489a36788005a6d6e699c48ec798)
 - 🏆 주요 자격증: AWS Certified Data Engineer – Associate (DEA)
 <div align="left">
   <img width="150" height="auto" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/36163081-9f97-461a-9f72-d27f896fcdb3" />

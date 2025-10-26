@@ -1,7 +1,7 @@
-# 임재근 [명지전문대학교] (020912)
+# 임재근 | Cloud Infrastructure Engineer Track
 
 ## 소개
-- 현재: 시스템 엔지니어 취업 준비 중  
+- 현재: 클라우드 서버 인프라 엔지니어 지망
 - 공부 자료: [Notion](https://www.notion.so/262c489a36788005a6d6e699c48ec798)
 - 주요 자격증: AWS Certified Data Engineer – Associate (DEA)
 <div align="left">

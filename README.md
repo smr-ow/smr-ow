@@ -1,4 +1,4 @@
-# 임재근 | Cloud Infrastructure Engineer Track
+# 임재근 | Cloud & System Engineer
 
 ## 소개
 - 현재: 클라우드 서버 인프라 엔지니어 지망

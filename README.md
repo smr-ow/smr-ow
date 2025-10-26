@@ -16,9 +16,9 @@
 - **Operating System & Network**: Linux, Cisco  
 - **DevOps Tools**: Git, Terraform Cloud, Visual Studio, VSCode  
 - **Documentation & Collaboration**: Notion, Windows
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gcp,visualstudio,vscode,git,windows,notion" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,,terraform,linux,git,visualstudio,vscode,,windows,notion" />
   </a>
 </p>
 
@@ -141,10 +141,3 @@
   - 마스터 및 워커 노드 자동화 배포
   - Kubernetes 명령어를 통한 애플리케이션 배포 및 모니터링 환경 구성
 
----
-
-## 💬 마무리
-지속적인 학습과 실습을 통해 클라우드 및 인프라 엔지니어링 역량을 강화하고 있습니다.  
-특히 AWS 및 Terraform 기반의 자동화와 IaC(코드형 인프라)에 관심이 많으며,  
-실제 프로젝트 중심으로 실무 감각을 키워나가고 있습니다.
-****

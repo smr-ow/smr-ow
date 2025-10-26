@@ -9,34 +9,15 @@
 </div>
 
 ---
-## Certificates & Skills
-
-
-<p align="left">
-  <!-- 💻 Skills -->
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
----
 
 ## 기술 / Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gcp,visualstudio,vscode,git,windows,notion" />
+  </a>
 </p>
 - **Cloud**: AWS, GCP  
-- **Infrastructure & Orchestration**: Docker, Kubernetes, Terraform  
+**Infrastructure & Orchestration**: Docker, Kubernetes, Terraform  
 - **Operating System & Network**: Linux, Cisco  
 - **DevOps Tools**: Git, Terraform Cloud, Visual Studio, VSCode  
 - **Documentation & Collaboration**: Notion, Windows  
@@ -53,11 +34,12 @@
   <img src="https://img.shields.io/badge/SQLD-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLD" />
   <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20–%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" />
 </p>
-- AWS Certified Data Engineer – Associate (DEA)  
-- 리눅스마스터 2급  
+- 기간: 2025.09.09 ~ 2025.10.08  
+AWS Certified Data Engineer – Associate (DEA)  
+리눅스마스터 2급  
 - 네트워크관리사 2급  
 - SQLD  
-- 운전면허 2종 보통  
+운전면허 2종 보통  
 
 ---
 
@@ -76,7 +58,7 @@
 
 ## 연수 이력
 ### 클라우드 서비스 솔루션 설계 기초
-- 기관: [K-디지털] 온라인평생교육원  
+- 기관: [K-디지털] 온라인평생교육원
 - 기간: 2025.09.09 ~ 2025.10.08  
 
 ---

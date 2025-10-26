@@ -21,7 +21,8 @@
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gcp,visualstudio,vscode,git,windows,notion" />
   </a>
 </p>
----
+
+--- 
 
 ## 보유 자격증
 - **AWS Certified Data Engineer – Associate (DEA)**

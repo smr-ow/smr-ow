@@ -4,16 +4,13 @@
 - 현재: 시스템 엔지니어 취업 준비 중  
 - 공부 자료: [Notion](https://www.notion.so/262c489a36788005a6d6e699c48ec798)
 - 주요 자격증: AWS Certified Data Engineer – Associate (DEA)
+<div align="left">
+  <img width="150" height="auto" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/36163081-9f97-461a-9f72-d27f896fcdb3" />
+</div>
 
 ---
-## 🧩 Certificates & Skills
-<p align="left">
-  <!-- 🎓 Certificates -->
-  <img src="https://img.shields.io/badge/네트워크관리사2급-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="네트워크관리사2급" />
-  <img src="https://img.shields.io/badge/Linux%20Master%202급-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="리눅스마스터2급" />
-  <img src="https://img.shields.io/badge/SQLD-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLD" />
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20–%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" />
-</p>
+## Certificates & Skills
+
 
 <p align="left">
   <!-- 💻 Skills -->
@@ -37,21 +34,24 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
 - **Cloud**: AWS, GCP  
 - **Infrastructure & Orchestration**: Docker, Kubernetes, Terraform  
 - **Operating System & Network**: Linux, Cisco  
 - **DevOps Tools**: Git, Terraform Cloud, Visual Studio, VSCode  
 - **Documentation & Collaboration**: Notion, Windows  
 
-</p>
+
 
 ---
 
 ## 보유 자격증
 <p align="left">
-
-  <img src="https://img.shields.io/badge/SQLD-0078D6?style=flat-square&logo=databricks&logoColor=white" alt="SQLD" />
-  <img src="https://img.shields.io/badge/Linux%20Master%202급-success?style=flat-square" alt="리눅스마스터2급" />
+  <!-- Certificates -->
+  <img src="https://img.shields.io/badge/네트워크관리사2급-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="네트워크관리사2급" />
+  <img src="https://img.shields.io/badge/Linux%20Master%202급-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="리눅스마스터2급" />
+  <img src="https://img.shields.io/badge/SQLD-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLD" />
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20–%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer Associate" />
 </p>
 - AWS Certified Data Engineer – Associate (DEA)  
 - 리눅스마스터 2급  

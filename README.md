@@ -18,7 +18,7 @@
 - **Documentation & Collaboration**: Notion, Windows
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,,docker,kubernetes,terraform,,linux,,git,visualstudio,vscode,,windows,notion" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,git,visualstudio,vscode,windows,notion" />
   </a>
 </p>
 

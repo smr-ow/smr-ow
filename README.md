@@ -55,7 +55,8 @@
 ## Projects
 
 ### 1. 네트워크 프로젝트 (팀 APEX)
-- 관련 문서: [네트워크 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/2_APEX%20network_project.pdf&embedded=true)
+- 관련 문서: [네트워크 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Network_Project.pdf&embedded=true
+)
 - 기술 스택: Cisco Router/Switch, EIGRP, OSPF, RIPv2, VLAN, Trunk, DHCP, STP
 - 설명: OSPF, EIGRP 등 다양한 IGP(내부 게이트웨이 프로토콜)와 재분배(Redistribution)를 활용하여 복잡한 네트워크 환경을 설계하고 구축한 프로젝트
 - 주요 기여:

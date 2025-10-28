@@ -78,7 +78,7 @@
 ---
 
 ### 3. 리눅스 서버 및 시스템 관리 프로젝트 (팀 APEX)
-- 관련 문서: [리눅스 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/apex%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf&embedded=true)
+- 관련 문서: [리눅스 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Linux_Project.pdf&embedded=true)
 - 기술 스택: Rocky Linux, LVM, 디스크 쿼터, SSH, DNS, Web/FTP/NFS/Samba/DHCP/Mail Server
 - 설명: Rocky Linux 기반으로 9가지 서버 서비스를 구축하고 시스템 자원 관리 및 사용자 환경 설정을 수행한 종합 시스템 관리 프로젝트
 - 주요 기여:
@@ -89,7 +89,7 @@
 ---
 
 ### 4. vSphere 서버 가상화 구현 프로젝트 (팀 APEX)
-- 관련 문서: [vSphere 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/2%EC%A1%B0_APEX_vSphere.pdf&embedded=true)
+- 관련 문서: [vSphere 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Firewall_project.pdf&embedded=true)
 - 기술 스택: VMware vSphere, ESXi, vCenter Server, Active Directory
 - 설명: vSphere를 사용해 서버 가상화 환경을 구축하고 vCenter Server로 통합 관리 환경을 구현한 프로젝트
 - 주요 기여:
@@ -111,7 +111,7 @@
 ---
 
 ### 6. AWS 클라우드 기반 웹 서비스 구축 프로젝트 (2인)
-- 관련 문서: [AWS 2인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/AWS%202%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%84%9C%EC%9E%AC%EA%B6%8C_%EA%B9%80%EB%AF%BC%ED%98%B8.pdf&embedded=true)
+- 관련 문서: [AWS 2인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_AWS_Project.pdf&embedded=true)
 - 기술 스택: AWS VPC, EC2, ALB, RDS, S3, CloudWatch, SNS, CloudFormation
 - 설명: AWS의 주요 서비스들을 연동하여 Multi-AZ 기반의 고가용성 웹 서비스를 구축한 프로젝트
 - 주요 기여:
@@ -123,7 +123,7 @@
 ---
 
 ### 7. Terraform 기반 IaC 및 자동 배포 프로젝트 (팀 APEX)
-- 관련 문서: [Terraform IaC 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/2_APEX_Terraform_Projcet.pdf&embedded=true)
+- 관련 문서: [Terraform IaC 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Terraform_Projcet.pdf&embedded=true)
 - 기술 스택: Terraform, AWS, GitHub, Terraform Cloud, VSCode
 - 설명: Terraform을 활용해 인프라를 코드로 정의하고, Terraform Cloud와 GitHub을 연동하여 자동 배포 파이프라인을 구축한 프로젝트
 - 주요 기여:
@@ -134,7 +134,7 @@
 ---
 
 ### 8. AWS EKS 컨테이너 오케스트레이션 프로젝트 (팀 APEX)
-- 관련 문서: [AWS EKS 프로젝트](https://github.com/sjg1894/sjg1894/blob/3ce2d92e5a8557014ed10c720c189733c5f71d1a/docs/APEX_team2_AWS_EKS_project.pdf)
+- 관련 문서: [AWS EKS 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_team2_AWS_EKS_project.pdf&embedded=true)
 - 기술 스택: AWS EKS, Kubernetes, EC2, Bastion Host, Docker, IAM
 - 설명: AWS EKS 클러스터를 구축하고 Bastion Host를 통해 안전하게 접근하여 컨테이너 애플리케이션을 배포 및 관리한 프로젝트
 - 주요 기여:

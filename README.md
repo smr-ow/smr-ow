@@ -67,7 +67,7 @@
 ---
 
 ### 2. 방화벽 이중화 프로젝트 (팀 APEX)
-- 관련 문서: [방화벽 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/team2%20apex%20firewall%20project.pdf&embedded=true)
+- 관련 문서: [방화벽 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Firewall_project.pdf&embedded=true)
 - 기술 스택: Cisco ASA Firewall, Security Context, ACL, Active-Active Failover
 - 설명: Cisco ASA 방화벽을 이용해 다중 Context 환경에서 보안 정책을 설계하고, Active-Active 이중화 구성을 통해 고가용성(High Availability)을 확보한 프로젝트
 - 주요 기여:
@@ -100,7 +100,7 @@
 ---
 
 ### 5. AWS 클라우드 인프라 설계 및 구축 (개인 프로젝트)
-- 관련 문서: [AWS 개인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/sjg1894/sjg1894/main/docs/AWS%20%EA%B0%9C%EC%9D%B8Project_%EC%84%9C%EC%9E%AC%EA%B6%8C.pdf&embedded=true)
+- 관련 문서: [AWS 개인 프로젝트]()
 - 기술 스택: AWS VPC, Subnet, IGW, NAT Gateway, EC2, SSH
 - 설명: AWS 환경에서 VPC와 서브넷을 직접 설계하고 NAT Gateway를 구성하여 가용 영역 간 고가용성 네트워크를 구현한 프로젝트
 - 주요 기여:

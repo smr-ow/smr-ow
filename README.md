@@ -103,8 +103,9 @@
 
 ### 5. AWS 클라우드 인프라 설계 및 구축 (개인 프로젝트)
 - 관련 문서: [AWS 개인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/AWS%20Project.pdf&embedded=true)
-- 기술 스택: AWS VPC, Subnet, IGW, NAT Gateway, EC2, SSH
-- 설명: AWS 환경에서 VPC와 서브넷을 직접 설계하고 NAT Gateway를 구성하여 가용 영역 간 고가용성 네트워크를 구현한 프로젝트
+- 기술 스택: AWS VPC, Subnet (Public/Private), Internet Gateway, NAT Gateway, Routing Table, EC2 Instance (Bastion Host)
+- 설명:
+  - AWS 상에서 안전한 네트워크 구성을 구축하는 프로젝트로, 퍼블릭/프라이빗 서브넷을 분리하고, Bastion Host를 통한 보안 접속 구조를 구현함. 기본적인 클라우드 네트워킹과 접근 제어의 기초를 다룸.
 - 주요 기여:
   - VPC 및 Subnet 설계 (10.0.0.0/16 CIDR)
   - IGW, NAT Gateway 구성으로 통신 제어

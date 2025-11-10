@@ -102,7 +102,7 @@
 ---
 
 ### 5. AWS 클라우드 인프라 설계 및 구축 (개인 프로젝트)
-- 관련 문서: [AWS 개인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/AWS%20Project.pdf&embedded=true)
+- 관련 문서: [AWS 개인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/AWS%20Project_ljg.pdf&embedded=true)
 - 기술 스택:
   - AWS VPC, Subnet (Public/Private)
   - Internet Gateway, NAT Gateway

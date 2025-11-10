@@ -2,7 +2,7 @@
 
 ## 소개
 - 현재: 클라우드 서버 인프라 엔지니어 지망
-- 공부 자료: [Notion](https://www.notion.so/262c489a36788005a6d6e699c48ec798)
+- 공부 자료: [Notion](https://www.notion.so/2a7c489a36788069bc5ae9be6eb42e35)
 - 주요 자격증: AWS Certified Data Engineer – Associate (DEA), Terraform associate 003
 <div align="left">
   <img width="150" height="auto" alt="aws-certified-data-engineer-associate" src="https://github.com/user-attachments/assets/36163081-9f97-461a-9f72-d27f896fcdb3" />

@@ -91,7 +91,7 @@
 ---
 
 ### 4. vSphere 서버 가상화 구현 프로젝트 (팀 APEX)
-- 관련 문서: [vSphere 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Firewall_project.pdf&embedded=true)
+- 관련 문서: [vSphere 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_vSphere_Project.pdf&embedded=true)
 - 기술 스택: VMware vSphere, ESXi, vCenter Server, Active Directory
 - 설명: vSphere를 사용해 서버 가상화 환경을 구축하고 vCenter Server로 통합 관리 환경을 구현한 프로젝트
 - 주요 기여:

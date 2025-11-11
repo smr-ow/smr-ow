@@ -59,8 +59,12 @@
 ### 1. 네트워크 프로젝트 (팀 APEX)
 - 관련 문서: [네트워크 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Network_Project.pdf&embedded=true
 )
-- 기술 스택: Cisco Router/Switch, EIGRP, OSPF, RIPv2, VLAN, Trunk, DHCP, STP
-- 설명: OSPF, EIGRP 등 다양한 IGP(내부 게이트웨이 프로토콜)와 재분배(Redistribution)를 활용하여 복잡한 네트워크 환경을 설계하고 구축한 프로젝트
+- 기술 스택:
+  - Cisco IOS
+  - VLAN, VTP, STP, EtherChannel
+  - Routing Protocols (RIP, OSPF, EIGRP)
+  - DHCP, OSPF Authentication
+- 설명: 대규모 네트워크를 논리적·물리적으로 설계하고, 다양한 라우팅 프로토콜을 통합·재분배하는 고급 네트워크 구성 프로젝트. VLAN 간 트렁크, 루프 방지(STP), 인증(OSPF MD5) 등을 실제 라우터 명령 기반으로 구현함.
 - 주요 기여:
   - 통합 네트워크 구성: OSPF, EIGRP, RIPv2 라우팅 및 프로토콜 간 재분배 구현
   - 보안 및 트래픽 관리: OSPF 인증, VLAN 및 Trunk 구성
@@ -70,8 +74,12 @@
 
 ### 2. 방화벽 이중화 프로젝트 (팀 APEX)
 - 관련 문서: [방화벽 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Firewall_project.pdf&embedded=true)
-- 기술 스택: Cisco ASA Firewall, Security Context, ACL, Active-Active Failover
-- 설명: Cisco ASA 방화벽을 이용해 다중 Context 환경에서 보안 정책을 설계하고, Active-Active 이중화 구성을 통해 고가용성(High Availability)을 확보한 프로젝트
+- 기술 스택:
+  - Cisco ASA Firewall
+  - Failover, Context 기반 Multi-Mode
+  - OSPF, EIGRP Routing
+  - ACL, NAT, DMZ Segmentation
+- 설명: 기업 네트워크 보안을 위한 방화벽 이중화 및 DMZ 영역 구축 프로젝트. Primary/Secondary Failover 구성과 Context 기반 다중 방화벽 환경 설정을 통해 고가용성과 분리된 보안 정책을 실습함.
 - 주요 기여:
   - Active-Active Failover 설정으로 무중단 서비스 구축
   - Security Context를 통한 다중 논리 방화벽 분리
@@ -81,8 +89,11 @@
 
 ### 3. 리눅스 서버 및 시스템 관리 프로젝트 (팀 APEX)
 - 관련 문서: [리눅스 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Linux_Project.pdf&embedded=true)
-- 기술 스택: Rocky Linux, LVM, 디스크 쿼터, SSH, DNS, Web/FTP/NFS/Samba/DHCP/Mail Server
-- 설명: Rocky Linux 기반으로 9가지 서버 서비스를 구축하고 시스템 자원 관리 및 사용자 환경 설정을 수행한 종합 시스템 관리 프로젝트
+- 기술 스택:
+  - Rocky Linux
+  - SSH / XRDP / DNS / NFS / Samba / DHCP / Mail / FTP / Web / MariaDB
+  - LVM, Disk Quota
+- 설명: 기초적인 서버 인프라 구축 프로젝트로, OS 레벨의 사용자 관리, 디스크 파티션 및 LVM 설정, 네트워크 서비스(DNS, NFS, Samba 등) 구성까지 수행. 실제 기업 서버 환경의 운영관리 과정을 전반적으로 다룸.
 - 주요 기여:
   - SSH, DNS, Web, FTP, NFS 등 서버 구축 및 설정
   - LVM 구성과 디스크 쿼터 설정을 통한 자원 효율화
@@ -92,8 +103,11 @@
 
 ### 4. vSphere 서버 가상화 구현 프로젝트 (팀 APEX)
 - 관련 문서: [vSphere 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_vSphere_Project.pdf&embedded=true)
-- 기술 스택: VMware vSphere, ESXi, vCenter Server, Active Directory
-- 설명: vSphere를 사용해 서버 가상화 환경을 구축하고 vCenter Server로 통합 관리 환경을 구현한 프로젝트
+- 기술 스택:
+  - VMware vSphere, ESXi, vCenter
+  - Active Directory, iSCSI Storage
+  - HA(High Availability), DRS, FT(Fault Tolerance)
+- 설명: VMware 기반의 서버 가상화 환경을 구축하고, 클러스터를 통한 HA/DRS/FT 고가용성 기능을 구현한 프로젝트. 실제 데이터센터 수준의 가상 인프라를 구성하며, vCenter를 통한 통합 관리 경험을 포함.
 - 주요 기여:
   - ESXi 및 vCenter Server 설치 및 설정
   - vSphere Client를 통한 가상 서버 통합 관리
@@ -131,8 +145,11 @@
 
 ### 7. Terraform 기반 IaC 및 자동 배포 프로젝트 (팀 APEX)
 - 관련 문서: [Terraform IaC 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Terraform_Projcet.pdf&embedded=true)
-- 기술 스택: Terraform, AWS, GitHub, Terraform Cloud, VSCode
-- 설명: Terraform을 활용해 인프라를 코드로 정의하고, Terraform Cloud와 GitHub을 연동하여 자동 배포 파이프라인을 구축한 프로젝트
+- 기술 스택:
+  - Terraform
+  - AWS Provider
+  - EC2, VPC, Subnet, Security Group 등
+- 설명: Terraform을 활용해 AWS 인프라를 코드로 정의하고 자동 배포한 프로젝트. 수동 설정이 아닌 선언형 코드 기반으로 인프라를 재현 가능하게 만드는 IaC의 개념을 실습함.
 - 주요 기여:
   - Provider, Resource, Variable 등을 활용한 IaC 환경 구축
   - GitHub과 Terraform Cloud 연동으로 CI/CD 자동 배포 구현
@@ -142,8 +159,12 @@
 
 ### 8. AWS EKS 컨테이너 오케스트레이션 프로젝트 (팀 APEX)
 - 관련 문서: [AWS EKS 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_team2_AWS_EKS_project.pdf&embedded=true)
-- 기술 스택: AWS EKS, Kubernetes, EC2, Bastion Host, Docker, IAM
-- 설명: AWS EKS 클러스터를 구축하고 Bastion Host를 통해 안전하게 접근하여 컨테이너 애플리케이션을 배포 및 관리한 프로젝트
+- 기술 스택:
+  - AWS EKS (Elastic Kubernetes Service)
+  - Kubernetes Cluster (Node, Pod, Deployment, Service 등)
+  - AWS IAM, VPC, EC2
+  - Docker 
+- 설명: AWS 환경에서 EKS 클러스터를 구축하여 컨테이너화된 애플리케이션을 배포·운영하는 프로젝트. 팀 단위 협업 기반으로 EKS 클러스터 구성, 노드 관리, Pod 배포 및 모니터링을 수행.
 - 주요 기여:
   - EKS 클러스터 및 Bastion Host 구성
   - 마스터 및 워커 노드 자동화 배포

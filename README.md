@@ -83,9 +83,9 @@
 - 설명:
   - Cisco ASA 방화벽을 이용해 DMZ 구간과 내부망을 분리하고 Failover 및 Context 기반 이중화 구성을 통해 고가용성 보안 네트워크를 구축.
 - 주요 기여:
-  - Active-Active Failover 설정으로 무중단 서비스 구축
-  - Security Context를 통한 다중 논리 방화벽 분리
-  - ACL 정책으로 영역별 세밀한 보안 제어 구현
+  - 보안 아키텍처: Cisco ASA 기반 Inside/Outside/DMZ 네트워크 분리
+  - 이중화 구성: Failover 및 Context 기반 Multi-Mode 환경 구축
+  - 트래픽 제어: ACL 정책 설정 및 EIGRP/OSPF 연동으로 보안 통신 관리
 
 ---
 
@@ -98,9 +98,9 @@
 - 설명:
   - Rocky Linux 환경에서 사용자 관리, LVM, 디스크 쿼터, DNS, NFS, Samba, DHCP, Mail 등 주요 서버 서비스를 통합 구성하여 리눅스 기반 서버 인프라를 구현.
 - 주요 기여:
-  - SSH, DNS, Web, FTP, NFS 등 서버 구축 및 설정
-  - LVM 구성과 디스크 쿼터 설정을 통한 자원 효율화
-  - 사용자 및 그룹 관리, IP 설정 등 초기 환경 구성
+  - 서버 구축: Rocky Linux 기반 사용자, 그룹, 디스크 관리 구성
+  - 서비스 설정: DNS, NFS, Samba, DHCP, Mail, FTP 등 핵심 서비스 설치
+  - 시스템 관리: LVM 및 디스크 쿼터를 통한 자원 관리 체계 구축   
 
 ---
 
@@ -113,9 +113,9 @@
 - 설명:
   - VMware vSphere 환경에서 ESXi, vCenter, iSCSI 스토리지, HA, DRS, FT를 구성하여 고가용성 서버 가상화 인프라를 구축.
 - 주요 기여:
-  - ESXi 및 vCenter Server 설치 및 설정
-  - vSphere Client를 통한 가상 서버 통합 관리
-  - AD 기반 사용자 권한 관리 시스템 연동
+  - 가상화 인프라: VMware vSphere 기반 서버 가상화 환경 구축
+  - 고가용성 구성: HA, DRS, FT 설정으로 장애 대응 및 부하 분산 구현
+  - 자원 관리: Active Directory 연동 및 iSCSI 스토리지 구성
 
 ---
 
@@ -129,9 +129,9 @@
 - 설명:
   - AWS 상에서 VPC를 설계하고 퍼블릭·프라이빗 서브넷을 분리하여 NAT Gateway, Routing Table, Bastion Host를 구성한 보안형 네트워크 인프라를 구축.
 - 주요 기여:
-  - VPC 및 Subnet 설계 (10.0.0.0/16 CIDR)
-  - IGW, NAT Gateway 구성으로 통신 제어
-  - EC2 인스턴스 연결 검증으로 네트워크 정상 동작 확인
+  - 네트워크 설계: VPC 및 퍼블릭·프라이빗 서브넷 구조 설계
+  - 보안 구성: Bastion Host, NAT Gateway, Routing Table 설정
+  - 접근 제어: 내부 리소스의 외부 접근 차단 및 안전한 접속 환경 구현
 
 ---
 
@@ -146,11 +146,9 @@
 - 설명:
   - AWS 상에서 VPC, Subnet, NAT Gateway, Routing Table, Bastion Host를 구성하여 내부 자원의 보안을 강화한 클라우드 네트워크 인프라를 구축.
 - 주요 기여:
-  - ALB 기반 트래픽 분산 및 VPC 네트워크 구성
-  - Private 서브넷 내 RDS 데이터베이스 구축
-  - CloudWatch, SNS 기반 모니터링 및 알림 체계 구축
-  - CloudFormation으로 IaC 기반 인프라 자동화 구현
-
+  - 네트워크 설계: VPC, Subnet, NAT Gateway, Routing Table 구성
+  - 보안 관리: Bastion Host를 통한 안전한 접근 경로 설정
+  - 아키텍처 구성: 내부·외부망 분리로 보안성과 안정성을 강화
 ---
 
 ### 7. Terraform 기반 IaC 및 자동 배포 프로젝트 (팀 APEX)
@@ -162,10 +160,9 @@
 - 설명:
   - Terraform으로 AWS EC2, VPC, Subnet, Security Group을 코드 기반으로 정의하여 인프라 자동화 및 재현 가능한 배포 구조를 구현.
 - 주요 기여:
-  - Provider, Resource, Variable 등을 활용한 IaC 환경 구축
-  - GitHub과 Terraform Cloud 연동으로 CI/CD 자동 배포 구현
-  - Route53 도메인 등록 및 NS 레코드 설정으로 서비스 접근 환경 완성
-
+  - 인프라 자동화: Terraform으로 AWS EC2, VPC, Subnet, Security Group 코드화
+  - 배포 효율화: 변수 및 모듈 구조를 적용해 재현 가능한 배포 환경 구성
+  - IaC 운영: 인프라 변경 추적 및 자동화된 클라우드 리소스 관리 구현 
 ---
 
 ### 8. AWS EKS 컨테이너 오케스트레이션 프로젝트 (팀 APEX)
@@ -178,7 +175,6 @@
 - 설명:
   - AWS EKS를 활용해 노드, 파드, 서비스로 구성된 쿠버네티스 클러스터를 구축하고 클라우드 네이티브 애플리케이션 실행 환경을 구현.
 - 주요 기여:
-  - EKS 클러스터 및 Bastion Host 구성
-  - 마스터 및 워커 노드 자동화 배포
-  - Kubernetes 명령어를 통한 애플리케이션 배포 및 모니터링 환경 구성
-
+  - 클러스터 구축: AWS EKS 환경에서 Kubernetes 클러스터 구성
+  - 워크로드 배포: Node, Pod, Deployment, Service 구성 및 관리
+  - 운영 자동화: IAM 및 네트워크 연동을 통한 클라우드 네이티브 환경 구현

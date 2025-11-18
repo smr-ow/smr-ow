@@ -12,26 +12,18 @@
 
 
 ## 기술 / Skills
-Core Skills (핵심 기술)
-
-AWS (VPC, Subnet, IGW/NAT, EC2, SG, IAM)
-
-Linux (사용자/권한/서비스 관리)
-
-네트워크 (VLAN, Routing 기본)
-
-Terraform (EC2/VPC 구성 자동화)
-
-Additional Experience (추가 경험)
-
-Docker / Kubernetes
-
-vSphere(ESXi, vCenter, HA/DRS)
-
-Cisco 스위칭/라우팅
+- **Core Skills (핵심 기술)**
+  - AWS (VPC, Subnet, IGW/NAT, EC2, SG, IAM)
+  - Linux (사용자/권한/서비스 관리)
+  - 네트워크 (VLAN, Routing 기본)
+  - Terraform (EC2/VPC 구성 자동화)
+- Additional Experience (추가 경험)
+  - Docker / Kubernetes
+  - vSphere(ESXi, vCenter, HA/DRS)
+  - Cisco 스위칭/라우팅
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,git,visualstudio,vscode,windows,notion" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux" />
   </a>
 </p>
 

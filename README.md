@@ -1,7 +1,7 @@
 # 임재근 | Cloud & System Engineer
 
 ## 소개
-- 현재: 클라우드 서버 인프라 엔지니어 지망
+- 현재: AWS 기반 인프라 구축·자동화에 강점을 가진 Cloud/System Engineer 지망
 - 공부 자료: [Notion](https://www.notion.so/2a7c489a36788069bc5ae9be6eb42e35)
 - 주요 자격증: AWS Certified Data Engineer – Associate (DEA), Terraform associate 003
 <div align="left">
@@ -60,7 +60,102 @@
 
 ## Projects
 
-### 1. 네트워크 프로젝트 (팀 APEX)
+### 1. 리눅스 서버 및 시스템 관리 프로젝트 (팀 APEX)
+- 관련 문서: [리눅스 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Linux_Project.pdf&embedded=true)
+- 기술 스택:
+  - Rocky Linux
+  - SSH / XRDP / DNS / NFS / Samba / DHCP / Mail / FTP / Web / MariaDB
+  - LVM, Disk Quota
+- 설명:
+  - Rocky Linux 환경에서 사용자 관리, LVM, 디스크 쿼터, DNS, NFS, Samba, DHCP, Mail 등 주요 서버 서비스를 통합 구성하여 리눅스 기반 서버 인프라를 구현.
+- 주요 기여:
+  - 서버 구축: Rocky Linux 기반 사용자, 그룹, 디스크 관리 구성
+  - 서비스 설정: DNS, NFS, Samba, DHCP, Mail, FTP 등 핵심 서비스 설치
+  - 시스템 관리: LVM 및 디스크 쿼터를 통한 자원 관리 체계 구축   
+
+---
+
+### 2. Terraform 기반 IaC 및 자동 배포 프로젝트 (팀 APEX)
+- 관련 문서: [Terraform IaC 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Terraform_Projcet.pdf&embedded=true)
+- 기술 스택:
+  - Terraform
+  - AWS Provider
+  - EC2, VPC, Subnet, Security Group 등
+- 설명:
+  - Terraform으로 AWS EC2, VPC, Subnet, Security Group을 코드 기반으로 정의하여 인프라 자동화 및 재현 가능한 배포 구조를 구현.
+- 주요 기여:
+  - 인프라 자동화: Terraform으로 AWS EC2, VPC, Subnet, Security Group 코드화
+  - 배포 효율화: 변수 및 모듈 구조를 적용해 재현 가능한 배포 환경 구성
+  - IaC 운영: 인프라 변경 추적 및 자동화된 클라우드 리소스 관리 구현 
+
+---
+
+### 3. AWS EKS 컨테이너 오케스트레이션 프로젝트 (팀 APEX)
+- 관련 문서: [AWS EKS 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_team2_AWS_EKS_project.pdf&embedded=true)
+- 기술 스택:
+  - AWS EKS (Elastic Kubernetes Service)
+  - Kubernetes Cluster (Node, Pod, Deployment, Service 등)
+  - AWS IAM, VPC, EC2
+  - Docker 
+- 설명:
+  - AWS EKS를 활용해 노드, 파드, 서비스로 구성된 쿠버네티스 클러스터를 구축하고 클라우드 네이티브 애플리케이션 실행 환경을 구현.
+- 주요 기여:
+  - 클러스터 구축: AWS EKS 환경에서 Kubernetes 클러스터 구성
+  - 워크로드 배포: Node, Pod, Deployment, Service 구성 및 관리
+  - 운영 자동화: IAM 및 네트워크 연동을 통한 클라우드 네이티브 환경 구현
+
+---
+
+### 4. AWS 클라우드 인프라 설계 및 구축 (개인 프로젝트)
+- 관련 문서: [AWS 개인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/AWS%20Project_ljg.pdf&embedded=true)
+- 기술 스택:
+  - AWS VPC, Subnet (Public/Private)
+  - Internet Gateway, NAT Gateway
+  - Routing Table
+  - EC2 Instance (Bastion Host)
+- 설명:
+  - AWS 상에서 VPC를 설계하고 퍼블릭·프라이빗 서브넷을 분리하여 NAT Gateway, Routing Table, Bastion Host를 구성한 보안형 네트워크 인프라를 구축.
+- 주요 기여:
+  - 네트워크 설계: VPC 및 퍼블릭·프라이빗 서브넷 구조 설계
+  - 보안 구성: Bastion Host, NAT Gateway, Routing Table 설정
+  - 접근 제어: 내부 리소스의 외부 접근 차단 및 안전한 접속 환경 구현
+  
+---
+
+### 5. AWS 클라우드 기반 웹 서비스 구축 프로젝트 (2인)
+- 관련 문서: [AWS 2인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_AWS_Project.pdf&embedded=true)
+- 기술 스택:
+  - AWS VPC, Subnet (Public/Private)
+  - Internet Gateway, NAT Gateway
+  - Routing Table
+  - EC2 Instance (Public/Private)
+  - Bastion Host 
+- 설명:
+  - AWS 상에서 VPC, Subnet, NAT Gateway, Routing Table, Bastion Host를 구성하여 내부 자원의 보안을 강화한 클라우드 네트워크 인프라를 구축.
+- 주요 기여:
+  - 네트워크 설계: VPC, Subnet, NAT Gateway, Routing Table 구성
+  - 보안 관리: Bastion Host를 통한 안전한 접근 경로 설정
+  - 아키텍처 구성: 내부·외부망 분리로 보안성과 안정성을 강화
+ 
+---
+
+### 6. vSphere 서버 가상화 구현 프로젝트 (팀 APEX)
+- 관련 문서: [vSphere 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_vSphere_Project.pdf&embedded=true)
+- 기술 스택:
+  - VMware vSphere, ESXi, vCenter
+  - Active Directory, iSCSI Storage
+  - HA(High Availability), DRS, FT(Fault Tolerance)
+- 설명:
+  - VMware vSphere 환경에서 ESXi, vCenter, iSCSI 스토리지, HA, DRS, FT를 구성하여 고가용성 서버 가상화 인프라를 구축.
+- 주요 기여:
+  - 가상화 인프라: VMware vSphere 기반 서버 가상화 환경 구축
+  - 고가용성 구성: HA, DRS, FT 설정으로 장애 대응 및 부하 분산 구현
+  - 자원 관리: Active Directory 연동 및 iSCSI 스토리지 구성
+  
+---
+
+
+### 7. 네트워크 프로젝트 (팀 APEX)
 - 관련 문서: [네트워크 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Network_Project.pdf&embedded=true
 )
 - 기술 스택:
@@ -77,7 +172,7 @@
 
 ---
 
-### 2. 방화벽 이중화 프로젝트 (팀 APEX)
+### 8. 방화벽 이중화 프로젝트 (팀 APEX)
 - 관련 문서: [방화벽 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Firewall_project.pdf&embedded=true)
 - 기술 스택:
   - Cisco ASA Firewall
@@ -93,92 +188,3 @@
 
 ---
 
-### 3. 리눅스 서버 및 시스템 관리 프로젝트 (팀 APEX)
-- 관련 문서: [리눅스 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Linux_Project.pdf&embedded=true)
-- 기술 스택:
-  - Rocky Linux
-  - SSH / XRDP / DNS / NFS / Samba / DHCP / Mail / FTP / Web / MariaDB
-  - LVM, Disk Quota
-- 설명:
-  - Rocky Linux 환경에서 사용자 관리, LVM, 디스크 쿼터, DNS, NFS, Samba, DHCP, Mail 등 주요 서버 서비스를 통합 구성하여 리눅스 기반 서버 인프라를 구현.
-- 주요 기여:
-  - 서버 구축: Rocky Linux 기반 사용자, 그룹, 디스크 관리 구성
-  - 서비스 설정: DNS, NFS, Samba, DHCP, Mail, FTP 등 핵심 서비스 설치
-  - 시스템 관리: LVM 및 디스크 쿼터를 통한 자원 관리 체계 구축   
-
----
-
-### 4. vSphere 서버 가상화 구현 프로젝트 (팀 APEX)
-- 관련 문서: [vSphere 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_vSphere_Project.pdf&embedded=true)
-- 기술 스택:
-  - VMware vSphere, ESXi, vCenter
-  - Active Directory, iSCSI Storage
-  - HA(High Availability), DRS, FT(Fault Tolerance)
-- 설명:
-  - VMware vSphere 환경에서 ESXi, vCenter, iSCSI 스토리지, HA, DRS, FT를 구성하여 고가용성 서버 가상화 인프라를 구축.
-- 주요 기여:
-  - 가상화 인프라: VMware vSphere 기반 서버 가상화 환경 구축
-  - 고가용성 구성: HA, DRS, FT 설정으로 장애 대응 및 부하 분산 구현
-  - 자원 관리: Active Directory 연동 및 iSCSI 스토리지 구성
-
----
-
-### 5. AWS 클라우드 인프라 설계 및 구축 (개인 프로젝트)
-- 관련 문서: [AWS 개인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/AWS%20Project_ljg.pdf&embedded=true)
-- 기술 스택:
-  - AWS VPC, Subnet (Public/Private)
-  - Internet Gateway, NAT Gateway
-  - Routing Table
-  - EC2 Instance (Bastion Host)
-- 설명:
-  - AWS 상에서 VPC를 설계하고 퍼블릭·프라이빗 서브넷을 분리하여 NAT Gateway, Routing Table, Bastion Host를 구성한 보안형 네트워크 인프라를 구축.
-- 주요 기여:
-  - 네트워크 설계: VPC 및 퍼블릭·프라이빗 서브넷 구조 설계
-  - 보안 구성: Bastion Host, NAT Gateway, Routing Table 설정
-  - 접근 제어: 내부 리소스의 외부 접근 차단 및 안전한 접속 환경 구현
-
----
-
-### 6. AWS 클라우드 기반 웹 서비스 구축 프로젝트 (2인)
-- 관련 문서: [AWS 2인 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_AWS_Project.pdf&embedded=true)
-- 기술 스택:
-  - AWS VPC, Subnet (Public/Private)
-  - Internet Gateway, NAT Gateway
-  - Routing Table
-  - EC2 Instance (Public/Private)
-  - Bastion Host 
-- 설명:
-  - AWS 상에서 VPC, Subnet, NAT Gateway, Routing Table, Bastion Host를 구성하여 내부 자원의 보안을 강화한 클라우드 네트워크 인프라를 구축.
-- 주요 기여:
-  - 네트워크 설계: VPC, Subnet, NAT Gateway, Routing Table 구성
-  - 보안 관리: Bastion Host를 통한 안전한 접근 경로 설정
-  - 아키텍처 구성: 내부·외부망 분리로 보안성과 안정성을 강화
----
-
-### 7. Terraform 기반 IaC 및 자동 배포 프로젝트 (팀 APEX)
-- 관련 문서: [Terraform IaC 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/Apex_Terraform_Projcet.pdf&embedded=true)
-- 기술 스택:
-  - Terraform
-  - AWS Provider
-  - EC2, VPC, Subnet, Security Group 등
-- 설명:
-  - Terraform으로 AWS EC2, VPC, Subnet, Security Group을 코드 기반으로 정의하여 인프라 자동화 및 재현 가능한 배포 구조를 구현.
-- 주요 기여:
-  - 인프라 자동화: Terraform으로 AWS EC2, VPC, Subnet, Security Group 코드화
-  - 배포 효율화: 변수 및 모듈 구조를 적용해 재현 가능한 배포 환경 구성
-  - IaC 운영: 인프라 변경 추적 및 자동화된 클라우드 리소스 관리 구현 
----
-
-### 8. AWS EKS 컨테이너 오케스트레이션 프로젝트 (팀 APEX)
-- 관련 문서: [AWS EKS 프로젝트](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/smr-ow/smr-ow/main/doc/APEX_team2_AWS_EKS_project.pdf&embedded=true)
-- 기술 스택:
-  - AWS EKS (Elastic Kubernetes Service)
-  - Kubernetes Cluster (Node, Pod, Deployment, Service 등)
-  - AWS IAM, VPC, EC2
-  - Docker 
-- 설명:
-  - AWS EKS를 활용해 노드, 파드, 서비스로 구성된 쿠버네티스 클러스터를 구축하고 클라우드 네이티브 애플리케이션 실행 환경을 구현.
-- 주요 기여:
-  - 클러스터 구축: AWS EKS 환경에서 Kubernetes 클러스터 구성
-  - 워크로드 배포: Node, Pod, Deployment, Service 구성 및 관리
-  - 운영 자동화: IAM 및 네트워크 연동을 통한 클라우드 네이티브 환경 구현

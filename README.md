@@ -84,9 +84,9 @@
 - 설명:
   - Terraform으로 AWS EC2, VPC, Subnet, Security Group을 코드 기반으로 정의하여 인프라 자동화 및 재현 가능한 배포 구조를 구현.
 - 주요 기여:
-  - 인프라 자동화: Terraform으로 AWS EC2, VPC, Subnet, Security Group 코드화
-  - 배포 효율화: 변수 및 모듈 구조를 적용해 재현 가능한 배포 환경 구성
-  - IaC 운영: 인프라 변경 추적 및 자동화된 클라우드 리소스 관리 구현 
+  - 구조 정리: AWS VPC, Subnet, Security Group 등 인프라 구조를 분석하고 Terraform 리소스와 매핑하여 설계 기준 정리
+  - 코드화 작업: EC2, 네트워크, 보안 구성 요소를 Terraform으로 코드화하고 Provider·변수·의존성 설정 구성
+  - 배포 검증: IaC 기반 배포를 반복 테스트하며 동일 인프라 재현성 검증 및 전체 과정 문서화
 
 ---
 
